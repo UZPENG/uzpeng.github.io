@@ -1,18 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>介绍 on UZPENG</title><link>https://UZPENG.github.io/</link><description>Recent content in 介绍 on UZPENG</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>© 2026 UZPENG</copyright><lastBuildDate>Sat, 04 Mar 2017 19:31:34 +0000</lastBuildDate><atom:link href="https://UZPENG.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>重启博客杂谈</title><link>https://UZPENG.github.io/posts/restart_blog/</link><pubDate>Fri, 28 Nov 2025 23:04:01 +0800</pubDate><guid>https://UZPENG.github.io/posts/restart_blog/</guid><description>&lt;h2 class="relative group"&gt;为什么一直没有更新博客
-&lt;div id="为什么一直没有更新博客" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%80%e7%9b%b4%e6%b2%a1%e6%9c%89%e6%9b%b4%e6%96%b0%e5%8d%9a%e5%ae%a2" aria-label="锚点"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;p&gt;翻了翻自己的博客记录，最新一篇博客是2018年11月，距离现在已经7年有余了。18年那会才刚毕业，也就是说毕业这么多年，博客从来没有更新过。&lt;/p&gt;</description></item><item><title>漫谈博客来时路</title><link>https://UZPENG.github.io/posts/talk_about_my_old_blog/</link><pubDate>Sun, 25 Jan 2026 07:47:20 +0800</pubDate><guid>https://UZPENG.github.io/posts/talk_about_my_old_blog/</guid><description>&lt;h2 class="relative group"&gt;前言
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>介绍 on UZPENG</title><link>https://UZPENG.github.io/</link><description>Recent content in 介绍 on UZPENG</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>© 2026 UZPENG</copyright><lastBuildDate>Sat, 04 Mar 2017 19:31:34 +0000</lastBuildDate><atom:link href="https://UZPENG.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Vibe Coding时代我们应该做些什么</title><link>https://UZPENG.github.io/posts/living_under_vibe_coding/</link><pubDate>Fri, 13 Feb 2026 15:55:45 +0800</pubDate><guid>https://UZPENG.github.io/posts/living_under_vibe_coding/</guid><description>&lt;h2 class="relative group"&gt;前言
 &lt;div id="前言" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
 &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;p&gt;在重启博客之际，回顾自己7年前的老博客，不由心生感慨：“撒老师，我没白活！”&lt;/p&gt;</description></item><item><title>简历</title><link>https://UZPENG.github.io/page/resume/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://UZPENG.github.io/page/resume/</guid><description>&lt;h2 class="relative group"&gt;关于我
+&lt;p&gt;由于大模型的出现，软件开发产生了革命性的变化，当前大量使用&lt;code&gt;prompt+Agent&lt;/code&gt;，大大提升了效率。欢迎来到 &lt;code&gt;Vibe Coding&lt;/code&gt; 时代！&lt;/p&gt;</description></item><item><title>漫谈博客来时路</title><link>https://UZPENG.github.io/posts/talk_about_my_old_blog/</link><pubDate>Sun, 25 Jan 2026 07:47:20 +0800</pubDate><guid>https://UZPENG.github.io/posts/talk_about_my_old_blog/</guid><description>&lt;h2 class="relative group"&gt;前言
+&lt;div id="前言" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;在重启博客之际，回顾自己7年前的老博客，不由心生感慨：“撒老师，我没白活！”&lt;/p&gt;</description></item><item><title>重启博客杂谈</title><link>https://UZPENG.github.io/posts/restart_blog/</link><pubDate>Fri, 28 Nov 2025 23:04:01 +0800</pubDate><guid>https://UZPENG.github.io/posts/restart_blog/</guid><description>&lt;h2 class="relative group"&gt;为什么一直没有更新博客
+&lt;div id="为什么一直没有更新博客" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%80%e7%9b%b4%e6%b2%a1%e6%9c%89%e6%9b%b4%e6%96%b0%e5%8d%9a%e5%ae%a2" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;翻了翻自己的博客记录，最新一篇博客是2018年11月，距离现在已经7年有余了。18年那会才刚毕业，也就是说毕业这么多年，博客从来没有更新过。&lt;/p&gt;</description></item><item><title>简历</title><link>https://UZPENG.github.io/page/resume/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://UZPENG.github.io/page/resume/</guid><description>&lt;h2 class="relative group"&gt;关于我
 &lt;div id="关于我" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
