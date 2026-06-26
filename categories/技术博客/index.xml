@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>介绍 on UZPENG</title><link>https://UZPENG.github.io/</link><description>Recent content in 介绍 on UZPENG</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>© 2026 UZPENG</copyright><lastBuildDate>Fri, 13 Feb 2026 15:55:45 +0800</lastBuildDate><atom:link href="https://UZPENG.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Vibe Coding时代我们应该做些什么</title><link>https://UZPENG.github.io/posts/living_under_vibe_coding/</link><pubDate>Fri, 13 Feb 2026 15:55:45 +0800</pubDate><guid>https://UZPENG.github.io/posts/living_under_vibe_coding/</guid><description>&lt;h2 class="relative group"&gt;前言
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技术博客 on UZPENG</title><link>https://UZPENG.github.io/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/</link><description>Recent content in 技术博客 on UZPENG</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>© 2026 UZPENG</copyright><lastBuildDate>Fri, 13 Feb 2026 15:55:45 +0800</lastBuildDate><atom:link href="https://UZPENG.github.io/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml"/><item><title>Vibe Coding时代我们应该做些什么</title><link>https://UZPENG.github.io/posts/living_under_vibe_coding/</link><pubDate>Fri, 13 Feb 2026 15:55:45 +0800</pubDate><guid>https://UZPENG.github.io/posts/living_under_vibe_coding/</guid><description>&lt;h2 class="relative group"&gt;前言
  &lt;div id="前言" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
@@ -25,27 +25,7 @@
  &lt;/span&gt;
  
 &lt;/h2&gt;
-&lt;p&gt;翻了翻自己的博客记录，最新一篇博客是2018年11月，距离现在已经7年有余了。18年那会才刚毕业，也就是说毕业这么多年，博客从来没有更新过。&lt;/p&gt;</description></item><item><title>简历</title><link>https://UZPENG.github.io/page/resume/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://UZPENG.github.io/page/resume/</guid><description>&lt;h2 class="relative group"&gt;关于我
- &lt;div id="关于我" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%85%b3%e4%ba%8e%e6%88%91" aria-label="锚点"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h2&gt;
-&lt;p&gt;技术栈：Java / Python / Rust&lt;/p&gt;</description></item><item><title>友链</title><link>https://UZPENG.github.io/page/link/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://UZPENG.github.io/page/link/</guid><description>&lt;div class="space-y-4"&gt;
- &lt;div&gt;
- &lt;span class="font-bold text-lg text-primary-600 dark:text-primary-400"&gt;bombcoder&lt;/span&gt;
- &lt;span class="text-neutral-500 ml-2"&gt;Go/后端/DevOps&lt;/span&gt;
- &lt;a class="text-sky-600 dark:text-sky-400 font-semibold hover:underline ml-2" href="https://gobomb.github.io" target="_blank" rel="noopener"&gt;https://gobomb.github.io&lt;/a&gt;
- &lt;/div&gt;
- &lt;div&gt;
- &lt;span class="font-bold text-lg text-primary-600 dark:text-primary-400"&gt;HoshI&lt;/span&gt;
- &lt;span class="text-neutral-500 ml-2"&gt;Java/Android/硬核游戏玩家&lt;/span&gt;
- &lt;a class="text-sky-600 dark:text-sky-400 font-semibold hover:underline ml-2" href="https://enderhoshi.github.io" target="_blank" rel="noopener"&gt;https://enderhoshi.github.io&lt;/a&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>Java并发编程入门</title><link>https://UZPENG.github.io/posts/concurrent/</link><pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate><guid>https://UZPENG.github.io/posts/concurrent/</guid><description>&lt;h1 class="relative group"&gt;前言
+&lt;p&gt;翻了翻自己的博客记录，最新一篇博客是2018年11月，距离现在已经7年有余了。18年那会才刚毕业，也就是说毕业这么多年，博客从来没有更新过。&lt;/p&gt;</description></item><item><title>Java并发编程入门</title><link>https://UZPENG.github.io/posts/concurrent/</link><pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate><guid>https://UZPENG.github.io/posts/concurrent/</guid><description>&lt;h1 class="relative group"&gt;前言
  &lt;div id="前言" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span

@@ -7,7 +7,15 @@
  &lt;/span&gt;
  
 &lt;/h2&gt;
-&lt;p&gt;技术栈：Java / Python / Rust&lt;/p&gt;</description></item><item><title>友链</title><link>https://UZPENG.github.io/page/link/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://UZPENG.github.io/page/link/</guid><description>&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;bombcoder&lt;/code&gt; Go/后端/DevOps &lt;a href="https://gobomb.github.io" target="_blank" rel="noreferrer"&gt;https://gobomb.github.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;HoshI&lt;/code&gt; Java/Android/硬核游戏玩家 &lt;a href="https://enderhoshi.github.io" target="_blank" rel="noreferrer"&gt;https://enderhoshi.github.io&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;p&gt;技术栈：Java / Python / Rust&lt;/p&gt;</description></item><item><title>友链</title><link>https://UZPENG.github.io/page/link/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://UZPENG.github.io/page/link/</guid><description>&lt;div class="space-y-4"&gt;
+ &lt;div&gt;
+ &lt;span class="font-bold text-lg text-primary-600 dark:text-primary-400"&gt;bombcoder&lt;/span&gt;
+ &lt;span class="text-neutral-500 ml-2"&gt;Go/后端/DevOps&lt;/span&gt;
+ &lt;a class="text-sky-600 dark:text-sky-400 font-semibold hover:underline ml-2" href="https://gobomb.github.io" target="_blank" rel="noopener"&gt;https://gobomb.github.io&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;span class="font-bold text-lg text-primary-600 dark:text-primary-400"&gt;HoshI&lt;/span&gt;
+ &lt;span class="text-neutral-500 ml-2"&gt;Java/Android/硬核游戏玩家&lt;/span&gt;
+ &lt;a class="text-sky-600 dark:text-sky-400 font-semibold hover:underline ml-2" href="https://enderhoshi.github.io" target="_blank" rel="noopener"&gt;https://enderhoshi.github.io&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>
